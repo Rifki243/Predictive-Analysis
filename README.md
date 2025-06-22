@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Predictive Analysis Telco Customer Churn
+# Laporan Proyek Predictive Analysis - Telco Customer Churn
 
 ## Domain Proyek
 
